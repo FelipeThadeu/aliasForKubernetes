@@ -9,7 +9,7 @@ alias kgp="kubectl get replicasets"
 alias kgd="kubectl get deployments" 
 alias kgn="kubectl get namespaces"
 alias kgnd="kubectl get nodes"
-alias kgnd="kubectl get service"
+alias kgs="kubectl get service"
 
 # kubectl describe
 # get information about
@@ -18,7 +18,7 @@ alias kdr="kubectl describe replicaset"
 alias kdd="kubectl describe deployment"
 alias kdn="kubectl describe namespace"
 alias kdnd="kubectl describe node"
-alias kgnd="kubectl describe service"
+alias kds="kubectl describe service"
 
 #kubectl run
 #create a pod
